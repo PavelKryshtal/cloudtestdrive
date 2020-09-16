@@ -20,7 +20,7 @@
   
   ![](./images/create_atp_03.png)
   
-  - Choose the Serverless deployment type.
+  - Choose the Shared Infrastructure deployment type.
   
   ![](./images/create_atp_serverless.png)
 
