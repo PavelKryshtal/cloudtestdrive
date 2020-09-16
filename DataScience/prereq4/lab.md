@@ -26,11 +26,11 @@
 
   - In order to have an equal performance over all of the ATP instances of all the workshop participants, we recommend that you __keep the Always Free option turned off__. Keep default for OCPU and storage. Disable Auto Scaling.
 
-  ![](./images/create_atp_free.png)
+  ![](./images/create_atp_autoscalingoff.png)
 
   - Set the admin password. *Make a note of this as you will need it.*
 
-  ![](./images/create_atp_04.png)
+  ![](./images/create_atp_password.png)
   
   - Keep defaults for "Access Type" and "License Type".
 
