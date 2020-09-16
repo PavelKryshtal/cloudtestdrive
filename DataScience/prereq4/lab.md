@@ -24,7 +24,7 @@
   
   ![](./images/create_atp_serverless.png)
 
-  - In order to have an equal performance over all of the ATP instances of all the workshop participants, we recommend that you __keep the Always Free option turned off__. Keep default for OCPU and storage. Disable Auto Scaling.
+  - In order to have an equal performance over all of the ATP instances of all the workshop participants, we recommend that you keep the Always Free option turned off, keep defaults for OCPU (1) and storage (1 TB). __Disable__ Auto Scaling.
 
   ![](./images/create_atp_autoscalingoff.png)
 

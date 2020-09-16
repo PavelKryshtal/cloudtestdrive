@@ -27,6 +27,10 @@ You require the following:
 
   ![](./images/open_service_console.png)
   
+  - Select "Development".
+
+  ![](./images/development.png)
+
   - There's a section called "Oracle Application Express". Click on "Open APEX".
  
   - You will see the login page fof APEX Administration Services. Use the ADMIN password that you entered when you provisioned ATP.
@@ -47,11 +51,11 @@ You require the following:
 
   - First download the application that we will install. You can find it [here](./install/f100.sql). 
   
-  To download it first click the link, then click the Download button of GIT and then Right Click "Save As" as f100.sql in your browser.
+  To download it first click the link, then click the Raw button of GIT and then Right Click "Save As" as f100.sql in your browser. Please open the file in a text editor to verify that it is SQL (If you see HTML tags, something went wrong).
   ![](./images/download_button.png)
   ![](./images/save_as.png)
 
-  - If you're in APEX, then first Log out.
+  - If you're in APEX, then first __Log out__. You can do this by clicking on the icon of your user (top right), then choose "Sign Out".
 
   - Now login to the workspace that we created earlier.
   
@@ -109,7 +113,7 @@ First we will set up a user for Zeppelin.
 
   ![](./images/create_ml_user.png)
 
-- Go back to the Service Console, then Development, then ML SQL Notebooks.
+- Go back to the Service Console, then Development, then Oracle Machine Learning Notebooks.
 
   ![](./images/open_notebook.png)
 
@@ -291,9 +295,7 @@ First we will set up a user for Zeppelin.
   
 - Open APEX. You can do this from Service Console of the database, then Development, then APEX.
 
-  ![](./images/open_service_console.png)
-  
-  ![](./images/open_apex.png)
+  ![](./images/openapex2.png)
   
   - Login to the workspace that we created earlier.
   
@@ -335,7 +337,7 @@ First we will set up a user for Zeppelin.
   
   ![](./images/run_sql.png)
   
-  Paste in the SQL that you have just downloaded. Execute it.
+  Paste in the SQL that you have just downloaded. Execute it. You should see "View created" at the bottom of the page.
 
 - Go back to the APEX application and edit the Customers page. Choose Customers section in Content body. Add the "RECOMMENDATION" column in the select statement at the right.
   **Don't forget the comma just after the previous column.**
