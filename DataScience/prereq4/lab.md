@@ -8,10 +8,12 @@
 
   - Choose to create a new instance.
   
+  - Choose a specific compartment, or just keep using the root compartment.
+
   ![](./images/create_atp_01.png)
 
   - Choose any name for the database, in this case "WORKSHOP".
-  
+
   ![](./images/create_atp_02.png)
 
   - Choose the Transaction Processing option. This will optimize the database for daily transactional processing. 
@@ -22,13 +24,15 @@
   
   ![](./images/create_atp_serverless.png)
 
-  - In order to have an equal performance over all of the ATP instances of all the workshop participants, we recommend that you __keep the Always Free option turned off__. 
+  - In order to have an equal performance over all of the ATP instances of all the workshop participants, we recommend that you __keep the Always Free option turned off__. Keep default for OCPU and storage. Disable Auto Scaling.
 
   ![](./images/create_atp_free.png)
 
   - Set the admin password. *Make a note of this as you will need it.*
 
   ![](./images/create_atp_04.png)
+  
+  - Keep defaults for "Access Type" and "License Type".
 
   - Create the database. 
 
