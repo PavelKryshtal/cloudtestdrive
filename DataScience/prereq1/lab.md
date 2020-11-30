@@ -5,7 +5,7 @@ If you already have an Oracle Cloud tenancy, you may continue to [Prerequisite 2
 -->
 
 We highly recommend that you request a NEW Oracle Cloud Trial to do the workshop. If instead you use a trial that you've requested on an earlier occasion, it may not have enough credits to do the workshop.
-In that case, please contact us and we will try to find a solution.
+In that case, please contact us (john.w.craig@oracle.com) and we will try to find a solution.
 
 ## Prerequisite 1: Request an Oracle Cloud Free Tier account
 
@@ -30,8 +30,6 @@ Please use the SAME email address that you used for registering for the workshop
 
 At the end of this process, you can login directly using the credentials you just created.
 
-If you already used this email address to create a trial earlier, and you have used your credits, please get in contact with John Craig (john.w.craig@oracle.com) to find a solution.
-
 ### Logging in at a later point
 - You will have received an email titled "Get Started Now with Oracle Cloud".
 - Use the button "Sign in to Oracle Cloud".
@@ -43,4 +41,3 @@ If you already used this email address to create a trial earlier, and you have u
 ## Next
 
 Continue to [Prerequisite 2: Provision Data Science service](../prereq2/lab.md).
-
