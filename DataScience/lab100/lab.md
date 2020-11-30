@@ -563,7 +563,7 @@ The result should be
 array([12.42384482])
 ```
 
-You would notice that the price is strage, it shows a number that doesn't seem to be a normal house Sales Price. If you remember we scale the SalePrice by using `np.log(SalePrice)` to get the prices in smaller range and help the algorithm generalize and learn better. To get the real price now we need to revert back this scale. To do so we have to use `np.exp(PredictedSalePrice)`, example:
+You would notice that the price is strange, it shows a number that doesn't seem to be a normal house Sales Price. If you remember we scaled the SalePrice by using `np.log(SalePrice)` to get the prices in smaller range and help the algorithm generalize and learn better. To get the real price now we need to revert back this scale. To do so we have to use `np.exp(PredictedSalePrice)`, example:
 
 ```python
 np.exp(12.42384482)
@@ -590,6 +590,31 @@ signle_predicted
 Pick another algorithm to train on this data, and compare its performance with the LinearRegression algorithm.
 -->
 
+# Bonus Lab 1: Train the model using AutoML
+
+OCI Data Science comes with a Python library SDK called ADS (Accelerated Data Science) that allows you to streamline the entire lifecycle of machine learning models, from data acquisition to model evaluation and interpretation. It also comes with the Oracle AutoML engine, which automates Feature Selection, Algorithm Selection, Feature Encoding and Hyperparameter Tuning.
+
+We will use it to train a model for the same problem as above (House Price Prediction), but this time automating the process using the various AutoML features. Once we've done that we will evaluate it using the ADS evaluation features and compare it with our "manually" built model that we created earlier.
+
+In this case, we've already prepared the notebook that you will run. 
+
+Download the notebook here.
+
+- Download the [AutoML and Model Evaluation notebook](./notebook/lab100_bonus.ipynb)
+
+Upload the notebook to OCI Data Science by dragging it to the left panel.
+
+![Upload Notebook](./images/upload_notebook.png)
+
+Now go through each of the cells and run them.
+
+# Bonus Lab 2: Deploy the model you have just built
+
+If you want to learn how to deploy the model you just built follow this bonus lab.
+
+[Deploy a Model using the Model Catalog](./bonus10.md)
+
+
 ## Summary
 
 * You have made your first steps with Data Exploration, Data Preparation, Model training and Evaluation
@@ -597,13 +622,13 @@ Pick another algorithm to train on this data, and compare its performance with t
 * You have learned how to provision and work with the Oracle Data Science cloud service
 * And, hopefully, you have been inspired to apply Machine Learning to many more situations
 
-# BONUS LABS
+<!--# BONUS LABS
 
 If you want to learn how to deploy the model you just built follow the bonus lab 100-10
 
 [LAB 100-10: Deploy a Model using the Model Catalog](./bonus10.md)
 
-In case you are interested how to engineer and try new features and explore if it has a better predictive relevance
+In case you are interested how to engineer and try new features and explore if it has a better predictive relevance-->
 
 [LAB 100-90 (Optional): Engineering a new input feature](./bonus90.md)
 
