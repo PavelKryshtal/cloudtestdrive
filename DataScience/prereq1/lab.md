@@ -15,13 +15,22 @@ Please use the SAME email address that you used for registering for the workshop
 
 ![](./images/create_cloud_trial.png)
 
+### Confirm email
+- An email will be sent to your account.
+- Confirm the creation of your account by pressing the link in the email.
+
+![](./images/confirm_email.png)
+
 ### Account Details
-- On the next page you will be asked for the Cloud Account Name. This is what will uniquely identify your cloud environment. You will see it as part of the URL when you access it later.
-- You will also be asked for the "Home Region". This is the location of the physical data center. Choose you nearest location.
+- The second step in the sign up process is shown.
+- Pay special attention to the field "Cloud Account Name": This is what will uniquely identify your cloud environment. You will see it as part of the URL when you access it later.
+- Pay special attention to the field "Home Region". This is the location of the physical data center. In principle you should choose the location nearest to you. Keep in mind that we will be using the OCI Data Science service and this is -not- available in UK West and UAE East (Dubai), therefore you can choose any other region.
 
 ![](./images/create_cloud_trial2.png)
 
 At the end of this process, you can login directly using the credentials you just created.
+
+If you already used this email address to create a trial earlier, and you have used your credits, please get in contact with John Craig (john.w.craig@oracle.com) to find a solution.
 
 ### Logging in at a later point
 - You will have received an email titled "Get Started Now with Oracle Cloud".
