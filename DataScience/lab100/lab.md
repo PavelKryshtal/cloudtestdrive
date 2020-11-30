@@ -602,11 +602,13 @@ Download the notebook here.
 
 - Download the [AutoML and Model Evaluation notebook](./notebook/lab100_bonus.ipynb). Click on the link, then use the `"Raw"` button and then right click `"Save As"`. Make sure to save these with extension `ipynb`. Some browsers try to convert this to Txt format, which is incorrect.
 
-Upload the notebook to OCI Data Science by dragging it to the left panel.
+- Upload the notebook to OCI Data Science by dragging it to the left panel.
 
 ![Upload Notebook](./images/upload_notebook.png)
 
-Now go through each of the cells and run them.
+- Now go through each of the cells and run them.
+
+
 
 # Bonus Lab 2: Deploy the model you have just built
 
@@ -628,9 +630,9 @@ If you want to learn how to deploy the model you just built follow the bonus lab
 
 [LAB 100-10: Deploy a Model using the Model Catalog](./bonus10.md)
 
-In case you are interested how to engineer and try new features and explore if it has a better predictive relevance-->
+In case you are interested how to engineer and try new features and explore if it has a better predictive relevance
 
-[LAB 100-90 (Optional): Engineering a new input feature](./bonus90.md)
+[LAB 100-90 (Optional): Engineering a new input feature](./bonus90.md)-->
 
 ## Follow-up questions
 
