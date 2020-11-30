@@ -606,7 +606,8 @@ Download the notebook here.
 
 ![Upload Notebook](./images/upload_notebook.png)
 
-- Now go through each of the cells and run them.
+- Open the Notebook that you've just uploaded.
+- Go through each of the cells and run them one by one.
 
 
 
