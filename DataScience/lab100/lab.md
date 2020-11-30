@@ -590,7 +590,7 @@ signle_predicted
 Pick another algorithm to train on this data, and compare its performance with the LinearRegression algorithm.
 -->
 
-# Bonus Lab 1: Train the model using AutoML
+## Bonus Lab 1: Train the model using AutoML
 
 OCI Data Science comes with a Python library SDK called ADS (Accelerated Data Science) that allows you to streamline the entire lifecycle of machine learning models, from data acquisition to model evaluation and interpretation. It also comes with the Oracle AutoML engine, which automates Feature Selection, Algorithm Selection, Feature Encoding and Hyperparameter Tuning.
 
@@ -610,7 +610,7 @@ Download the notebook here.
 
 
 
-# Bonus Lab 2: Deploy the model you have just built
+## Bonus Lab 2: Deploy the model you have just built
 
 If you want to learn how to deploy the model you just built follow this bonus lab.
 
