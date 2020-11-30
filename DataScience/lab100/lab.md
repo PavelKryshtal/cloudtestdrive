@@ -600,7 +600,7 @@ In this case, we've already prepared the notebook that you will run.
 
 Download the notebook here.
 
-- Download the [AutoML and Model Evaluation notebook](./notebook/lab100_bonus.ipynb)
+- Download the [AutoML and Model Evaluation notebook](./notebook/lab100_bonus.ipynb). Click on the link, then use the `"Raw"` button and then right click `"Save As"`. Make sure to save these with extension `ipynb`. Some browsers try to convert this to Txt format, which is incorrect.
 
 Upload the notebook to OCI Data Science by dragging it to the left panel.
 
