@@ -615,7 +615,7 @@ Download the notebook here.
 
 If you want to learn how to deploy the model you just built follow this bonus lab.
 
-[Deploy a Model using the Model Catalog](./bonus10.md)
+[Deploy a Model using the Model Catalog](./bonus100_deployment.md)
 
 
 ## Summary
