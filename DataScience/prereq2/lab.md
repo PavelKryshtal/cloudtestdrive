@@ -52,7 +52,8 @@ This is the recommend approach in case you are working in an Oracle Cloud tenanc
 
 ![](./images/newimage4.png)
 
-- Configure the Stack. We recommend you choose VM.Standard2.2 as the shape. 
+- Check "Create a Project and Notebook Session".
+- We recommend you choose VM.Standard.E2.8 as the shape. 
 
 ![](./images/newimage5.png)
 
