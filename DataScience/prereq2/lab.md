@@ -57,7 +57,7 @@ This is the recommend approach in case you are working in an Oracle Cloud tenanc
 
 ![](./images/newimage5b.png)
 
-- Disable the option "Enable Vault Support". Then click "Next".
+- Disable the option "Enable Vault Support". 
 
 ![](./images/newimage6.png)
 
