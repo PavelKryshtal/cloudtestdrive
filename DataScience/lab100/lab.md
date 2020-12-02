@@ -600,7 +600,7 @@ In this case, we've already prepared the notebook that you will run.
 
 Download the notebook here.
 
-- Download the [AutoML and Model Evaluation notebook](./notebook/lab100_bonus.ipynb). Click on the link, then use the `"Raw"` button and then right click `"Save As"`. Make sure to save these with extension `ipynb`. Some browsers try to convert this to Txt format, which is incorrect.
+- Download the [AutoML and Model Evaluation notebook](./notebook/lab100_bonus_1.ipynb). Click on the link, then use the `"Raw"` button and then right click `"Save As"`. Make sure to save these with extension `ipynb`. Some browsers try to convert this to Txt format, which is incorrect.
 
 - Upload the notebook to OCI Data Science by dragging it to the left panel.
 
@@ -609,13 +609,25 @@ Download the notebook here.
 - Open the Notebook that you've just uploaded.
 - Go through each of the cells and run them one by one.
 
+<!--## Bonus Lab 2: Model Explanation
 
+The Accelerated Data Science SDK comes with functionality to explain your models. This will let you see exactly what the importance is of each feature in your model. Follow this lab to learn about Global and Local explanations.
+
+In this case, we've already prepared the notebook that you will run. 
+
+Download the notebook here.
+
+- Download the [Model Explanation notebook](./notebook/lab100_bonus_2.ipynb). Click on the link, then use the `"Raw"` button and then right click `"Save As"`. Make sure to save these with extension `ipynb`. Some browsers try to convert this to Txt format, which is incorrect.
+
+- Upload the notebook to OCI Data Science by dragging it to the left panel similar to what you've done in the previous bonus lab.
+- Open the Notebook that you've just uploaded.
+- Go through each of the cells and run them one by one.-->
 
 ## Bonus Lab 2: Deploy the model you have just built
 
 If you want to learn how to deploy the model you just built follow this bonus lab.
 
-[Deploy a Model using the Model Catalog](./bonus100_deployment.md)
+[Deploy a Model using the Model Catalog](./bonus100_2.md)
 
 
 ## Summary
