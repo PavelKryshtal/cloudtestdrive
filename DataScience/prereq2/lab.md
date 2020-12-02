@@ -53,7 +53,7 @@ This is the recommend approach in case you are working in an Oracle Cloud tenanc
 ![](./images/newimage4.png)
 
 - Check "Create a Project and Notebook Session".
-- We recommend you choose VM.Standard2.8 (not VM.Standard.E2.8) as the shape. This is a high performance shape, which will be especially useful when we run AutoML later on.
+- We recommend you choose VM.Standard2.8 (*not* VM.Standard.*E*2.8) as the shape. This is a high performance shape, which will be especially useful when we run AutoML later on.
 
 ![](./images/newimage5b.png)
 
