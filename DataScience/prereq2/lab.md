@@ -55,11 +55,17 @@ This is the recommend approach in case you are working in an Oracle Cloud tenanc
 - Check "Create a Project and Notebook Session".
 - We recommend you choose VM.Standard2.8 (not VM.Standard.E2.8) as the shape. This is a high performance shape, which will be especially useful when we run AutoML later on.
 
-![](./images/newimage5.png)
+![](./images/newimage5b.png)
 
 - Disable the option "Enable Vault Support". Then click "Next".
 
 ![](./images/newimage6.png)
+
+- Disable the option "Provision Functions and API Gateway".
+
+![](./images/disablefunctions.png)
+ 
+- Then click "Next".
 ![](./images/newimage7.png)
 
 
