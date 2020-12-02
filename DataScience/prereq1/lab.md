@@ -15,11 +15,9 @@ Please use the SAME email address that you used for registering for the workshop
 
 ![](./images/create_cloud_trial.png)
 
-### Confirm email
-- An email will be sent to your account.
-- Confirm the creation of your account by pressing the link in the email.
+- If you have used the same email address as you used for the registration, you will be invited to a special program of free cloud credits. Confirm this by selecting the free offer.
 
-![](./images/confirm_email.png)
+<!--![](./images/confirm_email.png)-->
 
 ### Account Details
 - The second step in the sign up process is shown.
@@ -28,7 +26,13 @@ Please use the SAME email address that you used for registering for the workshop
 
 ![](./images/signup_part_2.png)
 
-At the end of this process, you can login directly using the credentials you just created.
+### Address Information
+- Fill in the address information. This is self explanatory.
+- Fill in your phone number and accept the agreement. Then select "Start my free trial".
+
+Account creation typically takes less than 10 minutes.
+
+At the end of this process, you will automatically be logged in.
 
 ### Logging in at a later point
 - You will have received an email titled "Get Started Now with Oracle Cloud".
